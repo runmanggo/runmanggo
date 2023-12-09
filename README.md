@@ -4,12 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=393E46&center=false&vCenter=false&multiline=true&repeat=true&width=800&height=80&lines=Hello,+Jeongyoon's+GitHub!👻)](https://git.io/typing-svg)
 
-  <h3>안녕하세요, 현재 FE 공부중인 백정윤입니다🧸</h3> 
+<h3>안녕하세요, 현재 FE 공부중인 백정윤입니다🧸</h3> 
  <h4> 💡현재 진행중인 필수 공부 루틴?💡</h4>
 
-  모던 자바스크립트 Deep Dive 스터디<br />
-  1일 1 프로그래머스 문제 풀이<br />
-  벨로그 주 1회 노력중..
+  - 리팩토링 스터디 진행중
   </div>
   
 ---
@@ -34,19 +32,6 @@
           src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
         </div>
   
- ---
-<h3> 🍪DEV's log🍪 </h3>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=runmanggo)](https://velog.io/@runmanggo) 
-
-<div style="display: flex; flex-direction: column">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=runmanggo)](https://velog.io/@runmanggo) 
-</div>
-<div>  
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=runmanggo&color=dark)](https://velog.io/@runmanggo)
-</div>
 </div>
     
 
